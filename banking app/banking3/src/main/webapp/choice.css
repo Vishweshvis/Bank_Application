@@ -1,0 +1,46 @@
+.new_users{
+    color: #96C9F4;
+    font-size: 50px;
+    font-weight: 200;
+    font-family: 'Roboto', sans-serif;
+    border: 7px solid #96C9F4;
+    display: inline;
+    padding: 50px 100px 50px 100px;
+
+    border-radius: 10px;
+}
+.new_users:hover {
+    background-color: #96C9F4;
+    color: aliceblue;
+    transition: 0.3s; 
+}
+
+body{
+    position: relative;
+}
+.container{
+    margin-top: 500px;
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+       justify-content: space-evenly;
+
+}
+.edit {
+
+    color: #96C9F4;
+    font-size: 50px;
+    font-weight: 200;
+    font-family: 'Roboto', sans-serif;
+    border: 7px solid #96C9F4;
+    display: flex;
+    padding: 50px 100px 50px 100px;
+    border-radius: 10px;
+}
+.edit:hover{ 
+    background-color: #96C9F4;
+    color: aliceblue;
+    transition: 0.3s; 
+}
